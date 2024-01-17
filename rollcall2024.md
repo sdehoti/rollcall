@@ -19,6 +19,7 @@ Name and GitHub username/profile
 * Fabian Gabriel - [gabrielf598](https://github.com/gabrielf598)
 * Chris Gomez - [gomezc08](https://github.com/gomezc08)
 * Molly Halverson = [halversm][https://github.com/halversm]
+* John Leeds - [LeedsJohn](https://github.com/LeedsJohn)
 * Terence Mahlatini - [TMahlatini](https://github.com/TMahlatini)
 * Gabriel Paris-Moe - [gabepm100](https://github.com/gabepm100)
 * Rhys Sorenson-Graff - [Rhys-sg](https://github.com/Rhys-sg)
