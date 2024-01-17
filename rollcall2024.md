@@ -20,7 +20,7 @@ Name and GitHub username/profile
 * Chris Gomez - [gomezc08](https://github.com/gomezc08)
 * Molly Halverson = [halversm][https://github.com/halversm]
 * John Leeds - [LeedsJohn](https://github.com/LeedsJohn)
-* Terence Mahlatini - [TMahlatini] 
+* Terence Mahlatini - [TMahlatini](https://github.com/TMahlatini)
 * Gabriel Paris-Moe - [gabepm100](https://github.com/gabepm100)
 * Rhys Sorenson-Graff - [Rhys-sg](https://github.com/Rhys-sg)
 * Uli Raudales - [UlizesR](https://github.com/UlizesR)
@@ -30,3 +30,4 @@ Name and GitHub username/profile
 * Aidan Von Buchwaldt - [AidanVB](https://github.com/AidanVB)
 * Jordan Wirfs-Brock - [jwirfs-brock](https://github.com/jwirfs-brock)
 * Luke Samuels - [samuelsl02](https://github.com/samuelsl02)
+* Zurain Zeeshan - [zurain2001](https://github.com/zurain2001)
